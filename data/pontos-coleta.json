@@ -103,4 +103,37 @@
     }
   ]
 }
-
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Ascurra",
+  "pontos_coleta": [
+  {
+    "id_ponto": 5,
+    "nome_local": "Ecoponto",
+    "endereco": "Rua Dante Zonta, s/n",
+    "bairro": "Estação",
+    "cidade": "Ascurra",
+    "contato": "(47) 3380-1345",
+    "materiais_aceitos": ["eletrônicos", "pilhas", "baterias"],
+    "procedimento": {
+    "precisa_agendamento": false,
+    "possui_custo": false,
+    "modalidade": "entrega"}
+  }, 
+  {
+    "id_ponto": 6,
+    "nome_local": "Decosu Tecnológica",
+    "endereco": "Rua Lúcio Marchi, 140",
+    "bairro": "Saltinho",
+    "cidade": "Ascurra",
+    "contato": "(47) 9617-3036",
+    "materiais_aceitos": ["placas de circuito integrado", "eletrônicos"],
+    "procedimento": {
+    "precisa_agendamento": true,
+    "possui_custo": true,
+    "modalidade": "ambos"}
+  },
+  {"evidencias": [
+  { "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }]}
+  ]
+}
