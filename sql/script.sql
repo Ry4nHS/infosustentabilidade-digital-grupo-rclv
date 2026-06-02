@@ -48,9 +48,14 @@ VALUES
 
 INSERT INTO materiais_aceitos (id_ponto, tipo_material, aceita)
 VALUES 
-(1, 'Computadores', TRUE), 
-(1, 'Baterias', FALSE), 
-(2, 'Celulares', TRUE);
+(1, 'Computadores, notebooks, celulares, impressoras, pilhas, baterias,
+cabos, eletrodomésticos e eletroportáteis.', TRUE), 
+(2, 'Computadores, notebooks, celulares, impressoras, televisões, monitores, pilhas, baterias, cabos, fontes, eletrodomésticos e eletroportáteis.', TRUE), 
+(3, '"equipamentos de informática, celulares, carregadores, cabos, televisores, pilhas, baterias, eletroportáteis e outros resíduos eletrônicos."', TRUE),
+(4, '"aparelhos celulares de qualquer marca, carregadores, cabos USB, baterias, fones de ouvido, acessórios eletrônicos, modems e pequenos equipamentos eletrônicos."', TRUE),
+(5, 'Eletrônicos, pilhas e baterias.', TRUE),
+(6, 'placas de circuito integrado e materiais eletrônicos.', TRUE),
+(7, '"Resíduos recicláveis (metal, papel, plástico e vidro), óleo de cozinha, utilizado, móveis, eletrodomésticos, eletrônicos, lâmpadas, pilhas e baterias."', TRUE);
 
 
 
