@@ -137,3 +137,26 @@
   { "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }]}
   ]
 }
+{
+"projeto": "InfoSustentabilidade Digital",
+"cidade_base": "Rodeio",
+"pontos_coleta": [
+{
+"id_ponto": 1,
+"nome_local": "Campanha  ́ ́Penso, Logo Destino`` Ecoponto de Rodeio – Coleta Seletiva.",
+"endereco": "Rua Quatorze de março,ao lado do Horto Municipal",
+"bairro": "Centro",
+"cidade": "Rodeio",
+"contato": "(47) 3384-0161",
+"materiais_aceitos":["Resíduos recicláveis", "(metal, papel, plástico e vidro)","óleo de cozinha", "móveis", "eletrodomésticos", "eletrônicos", "lâmpadas", "pilhas e baterias."],
+"procedimento": {
+"precisa_agendamento": false,
+"possui_custo": false,
+"modalidade": "entrega no local e campanhas periódicas"
+},
+"evidencias": [
+{ "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }
+]
+}
+]
+}
