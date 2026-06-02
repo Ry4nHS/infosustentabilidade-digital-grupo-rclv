@@ -1,1 +1,40 @@
-
+{
+"projeto": "InfoSustentabilidade Digital",
+"cidade_base": "Taió-SC",
+"pontos_coleta": [
+  {
+  "id_ponto": 1,
+  "nome_local": "Secretaria de Agricultura e Meio Ambiente",
+  "endereco": "R. Expedicionário Rafael Busarello, 530",
+  "bairro": "Padre Eduardo",
+  "cidade": "Taió",
+  "contato": "(47) 3562-8314",
+  "materiais_aceitos": ["Computadores", "notebooks", "celulares", "impressoras", "pilhas", "baterias", "cabos", "eletrodomésticos", "eletroportáteis"],
+  "procedimento": {
+                  "precisa_agendamento": false,
+                  "possui_custo": false,
+                  "modalidade": "Entrega em campanhas periódicas"
+                  },
+  "evidencias": [
+          { "tipo": "link da Foto: ", "arquivo": "https://www.instagram.com/p/DSLJlrekbOc/?img_index=4" }
+    ]
+  },
+  {
+  "id_ponto": 2,
+  "nome_local": "Hztech informática",
+  "endereco": "Av. Franz Xavier Mainhardt, 450",
+  "bairro": "Padre Eduardo",
+  "cidade": "Taió",
+  "contato": "(47) 3562-2008",
+  "materiais_aceitos": ["Computadores", "notebooks", "celulares", "impressoras", "televisões", "monitores", "pilhas", "baterias","cabos", "fontes", "eletrodomésticos", "eletroportáteis"],
+  "procedimento": {
+                  "precisa_agendamento": false,
+                  "possui_custo": false,
+                  "modalidade": "Entrega no local"
+                  },
+  "evidencias": [
+          { "tipo": "Google Maps:", "arquivo": "https://www.google.com/maps/dir//HZtech,+Av.+Franz+Xavier+Mainhardt,+450+-+Sala+C+-+Padre+Eduardo,+Tai%C3%B3+-+SC,+89190-000/@-27.2097801,-49.6402432,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x94de2aeda750a883:0xbe87dfee96ed6798!2m2!1d-49.9974557!2d-27.1187551?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D" }
+    ]
+  }
+]
+}
