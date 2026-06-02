@@ -38,3 +38,69 @@
   }
 ]
 }
+
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Ibirama",
+  "pontos_coleta": [
+    {
+      "id_ponto": 1,
+      "nome_local": "Secretaria Municipal de Meio Ambiente de Ibirama",
+      "endereco": "Rua 11 de Março, 11",
+      "bairro": "Centro",
+      "cidade": "Ibirama",
+      "contato": "(47) 3357-8500",
+      "materiais_aceitos": [
+        "equipamentos de informática",
+        "celulares",
+        "carregadores",
+        "cabos",
+        "televisores",
+        "pilhas",
+        "baterias",
+        "eletroportáteis",
+        "outros resíduos eletrônicos"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "Link do local",
+          "arquivo": "https://www.google.com/local/place/fid/0x94dfad582bee16bb:0x144bddb1f3e09d64/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DssX9_PKAOtlz9nvtfY0VMw%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D239.55202%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFnNzWDlfUEtBT3RsejludnRmWTBWTXc%3D&sa=X&sqi=2&ved=2ahUKEwi3gKGvitiUAxVMqJUCHdePHP4Qpx96BAgaEBI"
+        }
+      ]
+    },
+    {
+      "id_ponto": 2,
+      "nome_local": " Vivo - Ibirama",
+      "endereco": "Rua Tiradentes, 324",
+      "bairro": "Sala 09 – Centro",
+      "cidade": "Ibirama",
+      "contato": "(47) 3300-2419",
+      "materiais_aceitos": [
+        "aparelhos celulares de qualquer marca",
+        "carregadores",
+        "cabos USB",
+        "baterias",
+        "fones de ouvido",
+        "acessórios eletrônicos",
+        "modems e pequenos equipamentos eletrônicos."
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "Link do local",
+          "arquivo": "https://www.google.com/local/place/fid/0x94e01fa8d496cb33:0xff59d75584ffd000/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DxFad56kaxtFuo8UBZmqSqQ%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D337.4035%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFnhGYWQ1NmtheHRGdW84VUJabXFTcVE%3D&sa=X&ved=2ahUKEwjG3aegitiUAxVFrpUCHWvYFaEQpx96BAhDEBI"
+        }
+      ] 
+    }
+  ]
+}
+
