@@ -1,3 +1,4 @@
+{"data": [
 {
 "projeto": "InfoSustentabilidade Digital",
 "cidade_base": "Taió-SC",
@@ -37,7 +38,7 @@
     ]
   }
 ]
-}
+},
 
 {
   "projeto": "InfoSustentabilidade Digital",
@@ -102,7 +103,8 @@
       ] 
     }
   ]
-}
+},
+
 {
   "projeto": "InfoSustentabilidade Digital",
   "cidade_base": "Ascurra",
@@ -136,7 +138,8 @@
   {"evidencias": [
   { "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }]}
   ]
-}
+},
+
 {
 "projeto": "InfoSustentabilidade Digital",
 "cidade_base": "Rodeio",
@@ -156,6 +159,8 @@
 },
 "evidencias": [
 { "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }
+]
+}
 ]
 }
 ]
