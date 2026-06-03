@@ -57,7 +57,15 @@ cabos, eletrodomésticos e eletroportáteis.', TRUE),
 (6, 'placas de circuito integrado e materiais eletrônicos.', TRUE),
 (7, '"Resíduos recicláveis (metal, papel, plástico e vidro), óleo de cozinha, utilizado, móveis, eletrodomésticos, eletrônicos, lâmpadas, pilhas e baterias."', TRUE);
 
-
+INSERT INTO procedimentos_descarte (id_ponto, horario_funcionamento, precisa_agendamento, possui_custo, modalidade, descricao_processo)
+VALUES
+(1, "Horário do Evento", FALSE, FALSE, "entregas", ""),
+(2, "08:30 - 18:00", FALSE, FALSE, "entregas", ""),
+(3, "07:00 - 16:00", FALSE, FALSE, "entregas", ""),
+(4, "09:00 - 18:00", FALSE, FALSE, "entregas", ""),
+(5, "07:30 - 17:00", FALSE, FALSE, "entregas", ""),
+(6, "07:30 - 17:00", TRUE, TRUE, "ambos", ""),
+(7, "08:00 - 12:00", FALSE, FALSE, "entregas", "");
 
 
 
