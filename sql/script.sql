@@ -48,14 +48,60 @@ VALUES
 
 INSERT INTO materiais_aceitos (id_ponto, tipo_material, aceita)
 VALUES 
-(1, 'Computadores, notebooks, celulares, impressoras, pilhas, baterias,
-cabos, eletrodomésticos e eletroportáteis.', TRUE), 
-(2, 'Computadores, notebooks, celulares, impressoras, televisões, monitores, pilhas, baterias, cabos, fontes, eletrodomésticos e eletroportáteis.', TRUE), 
-(3, '"equipamentos de informática, celulares, carregadores, cabos, televisores, pilhas, baterias, eletroportáteis e outros resíduos eletrônicos."', TRUE),
-(4, '"aparelhos celulares de qualquer marca, carregadores, cabos USB, baterias, fones de ouvido, acessórios eletrônicos, modems e pequenos equipamentos eletrônicos."', TRUE),
-(5, 'Eletrônicos, pilhas e baterias.', TRUE),
-(6, 'placas de circuito integrado e materiais eletrônicos.', TRUE),
-(7, '"Resíduos recicláveis (metal, papel, plástico e vidro), óleo de cozinha, utilizado, móveis, eletrodomésticos, eletrônicos, lâmpadas, pilhas e baterias."', TRUE);
+(1, 'Computadores', TRUE),
+(1, 'Notebooks', TRUE),
+(1, 'Celulares', TRUE),
+(1, 'Impressoras', TRUE),
+(1, 'Pilhas', TRUE),
+(1, 'Baterias', TRUE),
+(1, 'Cabos', TRUE),
+(1, 'Eletrodomésticos', TRUE),
+(1, 'Eletroportáteis', TRUE);
+(2, 'Computadores', TRUE),
+(2, 'Notebooks', TRUE),
+(2, 'Celulares', TRUE),
+(2, 'Impressoras', TRUE),
+(2, 'Televisões', TRUE),
+(2, 'Monitores', TRUE),
+(2, 'Pilhas', TRUE),
+(2, 'Baterias', TRUE),
+(2, 'Cabos', TRUE),
+(2, 'Fontes', TRUE),
+(2, 'Eletrodomésticos', TRUE),
+(2, 'Eletroportáteis', TRUE);
+(3, 'Equipamentos de Informática', TRUE),
+(3, 'Celulares', TRUE),
+(3, 'Carregadores', TRUE),
+(3, 'Cabos', TRUE),
+(3, 'Televisores', TRUE),
+(3, 'Pilhas', TRUE),
+(3, 'Baterias', TRUE),
+(3, 'Eletroportáteis', TRUE),
+(3, 'Outros Resíduos Eletrônicos', TRUE);
+(4, 'Aparelhos Celulares', TRUE),
+(4, 'Carregadores', TRUE),
+(4, 'Cabos USB', TRUE),
+(4, 'Baterias', TRUE),
+(4, 'Fones de Ouvido', TRUE),
+(4, 'Acessórios Eletrônicos', TRUE),
+(4, 'Modems', TRUE),
+(4, 'Pequenos Equipamentos Eletrônicos', TRUE);
+(5, 'Eletrônicos', TRUE),
+(5, 'Pilhas', TRUE),
+(5, 'Baterias', TRUE);
+(6, 'Placas de Circuito Integrado', TRUE),
+(6, 'Materiais Eletrônicos', TRUE);
+(7, 'Metal', TRUE),
+(7, 'Papel', TRUE),
+(7, 'Plástico', TRUE),
+(7, 'Vidro', TRUE),
+(7, 'Óleo de Cozinha Utilizado', TRUE),
+(7, 'Móveis', TRUE),
+(7, 'Eletrodomésticos', TRUE),
+(7, 'Eletrônicos', TRUE),
+(7, 'Lâmpadas', TRUE),
+(7, 'Pilhas', TRUE),
+(7, 'Baterias', TRUE);
 
 INSERT INTO procedimentos_descarte (id_ponto, horario_funcionamento, precisa_agendamento, possui_custo, modalidade, descricao_processo)
 VALUES
