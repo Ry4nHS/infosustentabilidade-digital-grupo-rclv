@@ -1,0 +1,56 @@
+| nome_local                                    | cidade  | tipo_material                     | modalidade | possui_custo |
+| --------------------------------------------- | ------- | --------------------------------- | ---------- | ------------ |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Eletroportáteis                   | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Eletrodomésticos                  | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Cabos                             | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Baterias                          | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Pilhas                            | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Impressoras                       | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Celulares                         | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Notebooks                         | entregas   | false        |
+| Secretaria de Agricultura e Meio Ambiente     | Taió    | Computadores                      | entregas   | false        |
+| Hztech informática                            | Taió    | Eletroportáteis                   | entregas   | false        |
+| Hztech informática                            | Taió    | Eletrodomésticos                  | entregas   | false        |
+| Hztech informática                            | Taió    | Fontes                            | entregas   | false        |
+| Hztech informática                            | Taió    | Cabos                             | entregas   | false        |
+| Hztech informática                            | Taió    | Baterias                          | entregas   | false        |
+| Hztech informática                            | Taió    | Pilhas                            | entregas   | false        |
+| Hztech informática                            | Taió    | Monitores                         | entregas   | false        |
+| Hztech informática                            | Taió    | Televisões                        | entregas   | false        |
+| Hztech informática                            | Taió    | Impressoras                       | entregas   | false        |
+| Hztech informática                            | Taió    | Celulares                         | entregas   | false        |
+| Hztech informática                            | Taió    | Notebooks                         | entregas   | false        |
+| Hztech informática                            | Taió    | Computadores                      | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Outros Resíduos Eletrônicos       | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Eletroportáteis                   | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Baterias                          | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Pilhas                            | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Televisores                       | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Cabos                             | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Carregadores                      | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Celulares                         | entregas   | false        |
+| Secret. Municipal de Meio Ambiente de Ibirama | Ibirama | Equipamentos de Informática       | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Pequenos Equipamentos Eletrônicos | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Modems                            | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Acessórios Eletrônicos            | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Fones de Ouvido                   | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Baterias                          | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Cabos USB                         | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Carregadores                      | entregas   | false        |
+| Vivo - Ibirama                                | Ibirama | Aparelhos Celulares               | entregas   | false        |
+| Ecoponto                                      | Ascurra | Baterias                          | entregas   | false        |
+| Ecoponto                                      | Ascurra | Pilhas                            | entregas   | false        |
+| Ecoponto                                      | Ascurra | Eletrônicos                       | entregas   | false        |
+| Decosu Tecnológica                            | Ascurra | Materiais Eletrônicos             | ambos      | true         |
+| Decosu Tecnológica                            | Ascurra | Placas de Circuito Integrado      | ambos      | true         |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Baterias                          | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Pilhas                            | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Lâmpadas                          | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Eletrônicos                       | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Eletrodomésticos                  | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Móveis                            | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Óleo de Cozinha Utilizado         | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Vidro                             | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Plástico                          | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Papel                             | entregas   | false        |
+| Ecoponto de Rodeio – Coleta Seletiva.         | Rodeio  | Metal                             | entregas   | false        |
